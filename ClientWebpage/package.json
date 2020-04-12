@@ -1,0 +1,11 @@
+{
+  "name": "clientwebpage",
+  "version": "1.0.0",
+  "description": "Game Client for Lab 10",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Sinan",
+  "license": "ISC"
+}
